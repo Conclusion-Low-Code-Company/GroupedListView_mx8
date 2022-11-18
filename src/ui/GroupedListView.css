@@ -1,0 +1,23 @@
+ul.glv__list,
+ul.glv__list .glv__listHeader,
+ul.glv__list .glv__listItem {
+    text-indent: 0;
+    list-style: none;
+    list-style-type: none;
+}
+
+.mx-listview > ul > li.glv__listHeader {
+    background-color: #aaa;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.link {
+    cursor: pointer;
+}
+
+.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
