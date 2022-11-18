@@ -1,29 +1,39 @@
-Description
-This listview shows the items grouped, and for each group a group header will be shown.[Describe typical usage scenario(s)]
+# Description
 
-Typical usage scenario
+This listview shows the liest items grouped, and for each group a group header will be shown.
 
-Features and limitations
-sticky group headers
-custom empty message
+# Typical usage scenario
 
-Dependencies
+An alphabetized list of contacts.
 
-Installation
+# Features and limitations
 
-Configuration
+- sticky group headers
+- custom empty message
+
+# Dependencies
+
+Dependicies for the Mendix Pluggable Widget Generator.
+
+# Installation
+
+Download the widget into your project from the Mendix Marketplace.
+
+# Configuration
+
 Source for the widget are objects from an entity, with a string attribute as group identifier, sorted at least on the group identifier attribute.
 
-See screenshots for more info.
-
-Compatibility
+# Compatibility
 
 Mendix 8.18.14 or higher
 
-Known bugs
+# Known bugs
 
-Frequently asked questions
+None
 
+# Frequently asked questions
+
+None
 
 
 
